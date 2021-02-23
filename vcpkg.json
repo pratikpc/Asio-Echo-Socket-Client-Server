@@ -1,0 +1,13 @@
+{
+  "name": "beastwebsample",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "boost-beast",
+    "boost-asio",
+    "catch2",
+    "boost-lexical-cast",
+    "hedley"
+  ],
+  "license": "ISC",
+  "description": ""
+}
